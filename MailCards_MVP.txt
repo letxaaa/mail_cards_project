@@ -1,0 +1,7 @@
+Project name: MailCards
+
+Project MVP
+* Login/registration (4hrs);
+* Landing page that everyone can browse in the all cards style (6hrs);
+* Dashboard where user can write a message in the card, add recipient and return addres (8hrs);
+* Dashboard where user can edit personal informations (3hrs).
